@@ -1,0 +1,12 @@
+{
+  "name": "async-landing",
+  "version": "1.0.0",
+  "description": "Landing page project for async programming course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Javier Rodríguez", 
+  "license": "ISC"
+}
